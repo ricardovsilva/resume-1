@@ -1,7 +1,9 @@
 # Marcela Barella Silva
 22 anos</br>
-Cel.: (11)97642-7227
+Cel.: (11)97642-7227</br>
+Skype: marcelabarella</br>
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
+
 ### Sobre:
 Marcela é uma estagiária em desenvolvimento web, que adora programar e aprender. 
 Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) e Python.</br>
@@ -21,6 +23,7 @@ Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada 
 ### Experiencia Profissional
 **2016 - Presente - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
 Principais Atividades: Manutenção de sites diversos de grandes empresas. Também fui responsável por aprender as melhores práticas utilizando Asp.Net MVC, repository pattern, injeção de dependências e arquitetura DDD. Também fui responsável por disseminar ao restante da equipe os conhecimentos adquiridos no decorrer desses projetos.</br>
+
 ### Redes Sociais
 Linkedin: https://www.linkedin.com/in/marcela-barella-3b544145</br>
 Github: https://github.com/marcelabarella/</br>
