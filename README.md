@@ -27,4 +27,4 @@ Principais Atividades: Manutenção de sites diversos de grandes empresas. Tamb�
 ### Redes Sociais
 Linkedin: https://www.linkedin.com/in/marcela-barella-3b544145</br>
 Github: https://github.com/marcelabarella/</br>
-Code School (cursos feitos): https://www.codeschool.com/users/MarcelaBarella</br>
+Code School (cursos feitos): https://www.codeschool.com/users/MarcelaBarella
