@@ -25,10 +25,10 @@ Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada 
 Principais Atividades: Manutenção de sites diversos de grandes empresas. Também fui responsável por aprender as melhores práticas utilizando Asp.Net MVC, repository pattern, injeção de dependências e arquitetura DDD. Também fui responsável por disseminar ao restante da equipe os conhecimentos adquiridos no decorrer desses projetos.</br>
 
 ## Objetivos Profissionais
-- Conhecer e aprender novas tecnologias.</br>
-- Colocar em prática conhecimentos já obtidos.</br>
-- Enfrentar novos desafios.</br>
-- Evoluir pessoal e profissionalmente.</br>
+- Conhecer e aprender novas tecnologias.
+- Colocar em prática conhecimentos já obtidos.
+- Enfrentar novos desafios.
+- Evoluir pessoal e profissionalmente.
 
 ## Redes Sociais
 Linkedin: https://www.linkedin.com/in/marcela-barella-3b544145</br>
