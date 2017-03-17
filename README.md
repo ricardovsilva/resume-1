@@ -2,7 +2,6 @@
 22 anos</br>
 Cel.: (11)97642-7227
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
-
 ### Sobre:
 Marcela é uma estagiária em desenvolvimento web, que adora programar e aprender. 
 Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) e Python.</br>
