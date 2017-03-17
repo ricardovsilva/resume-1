@@ -1,7 +1,6 @@
 # Marcela Barella Silva
-
 22 anos</br>
-Cel.: (11)97642-7227              Skype: marcelabarella</br>
+Cel.: (11)97642-7227
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
 
 ### Sobre:
