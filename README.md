@@ -10,18 +10,18 @@ Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) 
 Seu objetivo é conseguir uma colocação como Desenvolvedora Jr para que possa se dedicar a programação por mais tempo e, assim, ser capaz de encarar novos e maiores desafios.
 
 ### Conhecimentos técnicos:
-**Back-End:** Python(Django), Ruby(Rails), .Net(C#, Asp, Asp.Net MVC), PHP.</br>
+**Back-End:** Python(Django), Ruby(Rails), .Net(C#, Asp, Asp.Net MVC).</br>
 **Front-End:** HTML 5, CSS3, Javascript, Jquery, SVG, Bootstrap.</br>
 **Banco de Dados:** Microsoft Sql Server, MongoDB.</br>
 
 ### Formação acadêmica:
-Análise e Desenvolvimento de Sistemas - FATEC Ipiranga - Conclusão 2019;</br>
+Análise e Desenvolvimento de Sistemas - FATEC Ipiranga - Trancado;</br>
 Tecnologia em Materiais - FATEC São Paulo - Concluída;</br>
 Iniciação cientifica pela FATEC São Paulo/CNPq - Concluída;</br>
 Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada e leitura avançada.</br> 
 
 ### Experiencia Profissional:
-**2016 - Presente - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
+**2016 - Abril 2017 - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
 Principais Atividades: Manutenção de sites diversos de grandes empresas. Também fui responsável por aprender as melhores práticas utilizando Asp.Net MVC, repository pattern, injeção de dependências e arquitetura DDD. Também fui responsável por disseminar ao restante da equipe os conhecimentos adquiridos no decorrer desses projetos.</br>
 
 ### Redes Sociais:
