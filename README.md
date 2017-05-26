@@ -5,7 +5,7 @@ Skype: marcelabarella</br>
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
 
 ### Sobre:
-Marcela é uma estagiária em desenvolvimento web, que adora programar e aprender. 
+Marcela é uma programdora jr em desenvolvimento web, que adora programar e aprender. 
 Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) e Python.</br>
 Seu objetivo é conseguir uma colocação como Desenvolvedora Jr para que possa se dedicar a programação por mais tempo e, assim, ser capaz de encarar novos e maiores desafios.
 
