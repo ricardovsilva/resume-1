@@ -22,7 +22,7 @@ Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada 
 
 ### Experiencia Profissional:
 **2016 - 2017 - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
-Principais Atividades: Manutenção de sites diversos de grandes empresas. Também fui responsável por aprender as melhores práticas utilizando Asp.Net MVC, repository pattern, injeção de dependências e arquitetura DDD. Também fui responsável por disseminar ao restante da equipe os conhecimentos adquiridos no decorrer desses projetos.</br>
+Principais Atividades: Manutenção de sites diversos de grandes empresas. Também fui responsável por estudar as melhores práticas utilizando Asp.Net MVC, repository pattern, injeção de dependências e arquitetura DDD e disseminar ao restante da equipe os conhecimentos adquiridos no decorrer desses projetos.</br>
 
 ### Redes Sociais:
 **Linkedin:** https://www.linkedin.com/in/marcela-barella-3b544145</br>
