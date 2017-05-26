@@ -1,6 +1,6 @@
 # Marcela Barella Silva
 22 anos - Boa Vista - Curitiba - PR</br>
-Cel.: (11)97642-7227</br>
+Cel.: (11)97642-7227             Skype: marcelabarella</br>
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com
 
 ### Sobre:
