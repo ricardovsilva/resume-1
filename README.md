@@ -2,7 +2,8 @@
 22 anos - Boa Vista - Curitiba - PR</br>
 Cel.: (11)97642-7227</br>
 Skype: marcelabarella</br>
-Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
+Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com
+
 ### Sobre:
 Marcela é uma programdora jr em desenvolvimento web, que adora programar e aprender. 
 Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) e Python.
