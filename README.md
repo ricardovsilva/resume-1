@@ -1,5 +1,5 @@
 # Marcela Barella Silva
-22 anos</br>
+22 anos - Boa Vista - Curitiba - PR</br>
 Cel.: (11)97642-7227</br>
 Skype: marcelabarella</br>
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
@@ -21,7 +21,7 @@ Iniciação cientifica pela FATEC São Paulo/CNPq - Concluída;</br>
 Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada e leitura avançada.</br> 
 
 ### Experiencia Profissional:
-**2016 - Abril 2017 - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
+**2016 - 2017 - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
 Principais Atividades: Manutenção de sites diversos de grandes empresas. Também fui responsável por aprender as melhores práticas utilizando Asp.Net MVC, repository pattern, injeção de dependências e arquitetura DDD. Também fui responsável por disseminar ao restante da equipe os conhecimentos adquiridos no decorrer desses projetos.</br>
 
 ### Redes Sociais:
