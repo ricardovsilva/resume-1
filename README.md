@@ -3,7 +3,6 @@
 Cel.: (11)97642-7227</br>
 Skype: marcelabarella</br>
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
-
 ### Sobre:
 Marcela é uma programdora jr em desenvolvimento web, que adora programar e aprender. 
 Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) e Python.</br>
@@ -16,7 +15,7 @@ Seu objetivo é conseguir uma colocação como Desenvolvedora Jr para que possa 
 
 ### Formação acadêmica:
 Análise e Desenvolvimento de Sistemas - FATEC Ipiranga - Trancado;</br>
-Tecnologia em Materiais - FATEC São Paulo - Concluída;</br>
+Graduação em Tecnologia em Materiais - FATEC São Paulo - Concluída;</br>
 Iniciação cientifica pela FATEC São Paulo/CNPq - Concluída;</br>
 Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada e leitura avançada.</br> 
 
