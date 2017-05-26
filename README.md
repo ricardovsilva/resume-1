@@ -5,13 +5,12 @@ Skype: marcelabarella</br>
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com</br>
 ### Sobre:
 Marcela é uma programdora jr em desenvolvimento web, que adora programar e aprender. 
-Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) e Python.</br>
+Ela possui conhecimento e experiência com C# para Web (Asp.Net MVC e Webforms) e Python.
 Seu objetivo é conseguir uma colocação como Desenvolvedora Jr para que possa se dedicar a programação por mais tempo e, assim, ser capaz de encarar novos e maiores desafios.
 
 ### Conhecimentos técnicos:
-**Back-End:** Python(Django), Ruby(Rails), .Net(C#, Asp, Asp.Net MVC).</br>
+**Back-End:** Python(Django), Ruby(Rails), .Net(C#, Asp, Asp.Net MVC), Microsoft Sql Server, MongoDB.</br>
 **Front-End:** HTML 5, CSS3, Javascript, Jquery, SVG, Bootstrap.</br>
-**Banco de Dados:** Microsoft Sql Server, MongoDB.</br>
 
 ### Formação acadêmica:
 Análise e Desenvolvimento de Sistemas - FATEC Ipiranga - Trancado;</br>
