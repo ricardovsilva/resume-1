@@ -23,11 +23,11 @@ Iniciação cientifica pela FATEC São Paulo/CNPq - Concluída;</br>
 Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada e leitura avançada.</br> 
 
 ### Experiencia Profissional:
-** março de 2016 - abril de 2017 - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
+**Março de 2016 - abril de 2017 - Agência Foster:** Estagiária de Desenvolvimento Web C#</br>
 Principais Atividades: Manutenção de sites diversos de grandes empresas.</br>
 
-** maio de 2017 - Atual - Desenvolvedora autônoma:</br>
-Desenvolvimento de crawlers utilizando scrapy.
+**Maio de 2017 - Atual - Desenvolvedora autônoma:**</br>
+Desenvolvimento de crawlers utilizando python com scrapy e nodejs com chromeless.
 
 ### Redes Sociais:
 **Linkedin:** https://www.linkedin.com/in/marcela-barella-3b544145</br>
