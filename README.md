@@ -1,5 +1,5 @@
 # Marcela Barella Silva
-23 anos - Boa Vista - Curitiba - PR</br>
+23 anos - Vila Prudente - São Paulo - SP</br>
 Cel.: (11)96353-4656&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skype: marcelabarella</br>
 Emails: marcela.barella@hotmail.com / barella.marcela@gmail.com
 
